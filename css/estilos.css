@@ -42,7 +42,7 @@ body{
 }
 section{
    display: flex;
-   flex-wrap: wrap-reverse;
+   flex-wrap: wrap;
    flex-direction: column;
    background-color: #000;
    justify-content: center;
